@@ -1,0 +1,205 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> <App /> snapshot 1`] = `
+<div>
+  <header
+    class="sc-AxjAm hXjNkZ"
+  >
+    <a
+      href="/"
+    >
+      <svg
+        class="sc-AxirZ iCeOHL"
+      >
+        logo.svg
+      </svg>
+    </a>
+    <nav>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/how-it-works"
+      >
+        How it works
+      </a>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/about"
+      >
+        About
+      </a>
+    </nav>
+  </header>
+  <main>
+    <div
+      class="sc-AxhCb iQZeXb"
+    >
+      <section
+        class="sc-AxhUy bmKebj"
+      >
+        <h1
+          class="sc-AxgMl hHcRn"
+        >
+          Find the top posts on Reddit
+        </h1>
+        <form
+          class="sc-fzozJi gsgKPd"
+        >
+          <label
+            class="sc-fzoLsD gcKKKR"
+          >
+            r /
+            <input
+              class="sc-fzpans hAQcze"
+              name="subreddit"
+              type="text"
+              value="javascript"
+            />
+          </label>
+          <button
+            class="sc-AxmLO ckZYVg"
+            type="submit"
+          >
+            Search
+          </button>
+        </form>
+      </section>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`<App /> renders learn react link 1`] = `
+<div>
+  <header
+    class="sc-AxjAm hXjNkZ"
+  >
+    <a
+      href="/"
+    >
+      <svg
+        class="sc-AxirZ iCeOHL"
+      >
+        logo.svg
+      </svg>
+    </a>
+    <nav>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/how-it-works"
+      >
+        How it works
+      </a>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/about"
+      >
+        About
+      </a>
+    </nav>
+  </header>
+  <main>
+    <div
+      class="sc-AxhCb iQZeXb"
+    >
+      <section
+        class="sc-AxhUy bmKebj"
+      >
+        <h1
+          class="sc-AxgMl hHcRn"
+        >
+          Find the top posts on Reddit
+        </h1>
+        <form
+          class="sc-fzozJi gsgKPd"
+        >
+          <label
+            class="sc-fzoLsD gcKKKR"
+          >
+            r /
+            <input
+              class="sc-fzpans hAQcze"
+              name="subreddit"
+              type="text"
+              value="javascript"
+            />
+          </label>
+          <button
+            class="sc-AxmLO ckZYVg"
+            type="submit"
+          >
+            Search
+          </button>
+        </form>
+      </section>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`renders learn react link 1`] = `
+<div>
+  <header
+    class="sc-AxjAm hXjNkZ"
+  >
+    <a
+      href="/"
+    >
+      <svg
+        class="sc-AxirZ iCeOHL"
+      >
+        logo.svg
+      </svg>
+    </a>
+    <nav>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/how-it-works"
+      >
+        How it works
+      </a>
+      <a
+        class="sc-AxiKw ejNrOs"
+        href="/about"
+      >
+        About
+      </a>
+    </nav>
+  </header>
+  <main>
+    <div
+      class="sc-AxhCb iQZeXb"
+    >
+      <section
+        class="sc-AxhUy bmKebj"
+      >
+        <h1
+          class="sc-AxgMl hHcRn"
+        >
+          Find the top posts on Reddit
+        </h1>
+        <form
+          class="sc-fzozJi gsgKPd"
+        >
+          <label
+            class="sc-fzoLsD gcKKKR"
+          >
+            r /
+            <input
+              class="sc-fzpans hAQcze"
+              name="subreddit"
+              type="text"
+              value="javascript"
+            />
+          </label>
+          <button
+            class="sc-AxmLO ckZYVg"
+            type="submit"
+          >
+            Search
+          </button>
+        </form>
+      </section>
+    </div>
+  </main>
+</div>
+`;

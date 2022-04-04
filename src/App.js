@@ -1,12 +1,12 @@
 import React from 'react';
-import { Switch, Route } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import GlobalStyle from './GlobalStyle';
 import Header from './components/Header';
 import Home from './pages/Home';
 
 function App() {
   return (
-    <>
+    <BrowserRouter>
       <GlobalStyle />
       <Header />
 
@@ -23,7 +23,7 @@ function App() {
           </Route>
         </Switch>
       </main>
-    </>
+    </BrowserRouter>
   );
 }
 
